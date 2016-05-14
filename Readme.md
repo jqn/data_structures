@@ -16,3 +16,4 @@ Exercises so far:
 3. Exercises
   1. Iterations (Binary Gap)
   2. Alien Alphabet
+  3. Equilibrium Index
